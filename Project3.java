@@ -1,15 +1,3 @@
-/**
- * Anish Patel
- * COP3503
- * Project Objects & Classes
- * 11/17/24
- * 
- * This program reads in a list of employees containing tier 2 exprienced employees and tier 1 beginner employees.
- * Then the program reads in ticket data from 2 csv files where one is tier 1 tickets that are paired with beginner employees,
- * and tier 2 which are paired with tier 2 employees. Finally, the data is combined within a output workorder file that lists all of the
- * assignments for each emloyee, along with the current date and time that the workorder was created.
- * 
- */
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
