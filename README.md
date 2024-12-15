@@ -1,2 +1,2 @@
 # Ticketing-System
-This program is designed to assign tickets of varying types to their respective employee, and return a work order file that summarizes all of the assignments.
+This program reads in a list of employees containing tier 2 exprienced employees and tier 1 beginner employees. Then the program reads in ticket data from 2 csv files where one is tier 1 tickets that are paired with beginner employees, and tier 2 which are paired with tier 2 employees. Finally, the data is combined within an output work order file that lists all of the assignments for each employee, along with the current date and time that the work order was created.
